@@ -19,7 +19,7 @@
   3. ABOUT ME
  
  RESPONSIVE SITE
- ---------------
+ --------------- 
  
  What is a Responsive site? It's Simply means, it will adjust the webpage across all different screen sizes 
  From Smart watches to Ultra HD 4k Monitors.
